@@ -3,6 +3,8 @@
 The purpose of this project is to design a Keyboard Reading System, Control
 Robotic Arm and Display on a Screen with the programming language of Verilog.
 
+There is also a link which leads to a video showing how the robotic arm works.
+
 <hr>
 
 Electrical computer-aided design (ECAD) software systems are used to design and develop electronic systems 
