@@ -23,3 +23,13 @@ It's main features are:
 Verilog is a hardware description language (HDL) used to model electronic systems. It is commonly used for designing and verifying 
 digital circuits and systems, such as microprocessors, memory chips, and communication devices. Verilog allows engineers to describe 
 the behavior and structure of electronic circuits at various levels of abstraction, from high-level system design down to gate-level descriptions.
+
+It's main features are:
+- Behavioral Modeling (allows to describe the functionality of a digital system using high-level constructs)
+- Dataflow Modeling (describes how data flows through the system)
+- Structural Modeling (uses interconnected components or modules, reflecting the actual hardware structure)
+- Gate-Level Modeling (describes the circuit in terms of logic gates and their interconnections)
+- Concurrency (concurrent execution of statementsessential for modeling the parallel nature of hardware operations)
+- Testbenches (simulate and verify the design)
+- Synthesis (can be synthesized into actual hardware, such as FPGA or ASIC)
+- Standardization (Verilog is standardized by the IEEE)
