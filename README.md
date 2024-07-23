@@ -10,15 +10,14 @@ such as printed circuit boards (PCBs) and integrated circuits (ICs). ECAD softwa
 to create and modify diagrams and layouts including 2D and 3D models. ECAD is also known as electronic design automation (EDA).
 
 It's main features are:
-- Schematic Capture
-- PCB Layout
-- Simulation and Analysis
-- Component Libraries
-- Design Rule Checking (DRC)
-- Bill of Materials (BOM) Generation
-- Manufacturing Outputs
+- Schematic Capture (create and edit electronic circuit diagrams)
+- PCB Layout (physical layout of printed circuit boards)
+- Simulation and Analysis (tools for simulating the behavior of electronic circuits)
+- Component Libraries (libraries of electronic components with associated data)
+- Design Rule Checking (DRC) (Ensures that the design adheres to specific rules and constraints)
+- Bill of Materials (BOM) Generation (list of all components required for the design)
+- Manufacturing Outputs (files necessary for manufacturing the PCB)
 
-- 
 <hr>
 
 Verilog is a hardware description language (HDL) used to model electronic systems. It is commonly used for designing and verifying 
